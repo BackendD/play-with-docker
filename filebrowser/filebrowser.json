@@ -1,0 +1,9 @@
+{
+    "port": 80,
+    "baseURL": "",
+    "address": "",
+    "log": "stdout",
+    "database": "/database.db",
+    "root": "/srv",
+    "password": "$2a$10$XBhp1PrJIyzJdWv5K04IDOFBEss3N5b0e.ctwOf7KMWdJWtDXspzm"
+}
