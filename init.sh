@@ -1,6 +1,6 @@
 #!/bin/sh
 
-apk add tmux tree git;
+apk add tmux tree git p7zip;
 mkdir -p ~/cargo;
 touch ~/cargo/y.txt;
 chmod o+w ~/cargo;
