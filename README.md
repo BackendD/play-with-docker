@@ -3,8 +3,8 @@
 Initiate the container for:
 
 - Browsing files
-- Runnig torrents
-- Downloading from yotube and other media
+- Running torrents
+- Downloading from youtube and other media
 
 ## Execute
 
